@@ -1,2 +1,2 @@
 # ripsmc
-Chronium
+RipSMC es un resideño del ripsm original, orientado a lectortmo.
